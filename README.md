@@ -26,9 +26,10 @@ To cultivate a culture of problem-solving and entrepreneurship among college stu
 | Stage | Duration | Format | Details |
 |-------|----------|--------|---------|
 | **Registration** | 15 Oct - 26 Oct, 2025 | Online | Open to all first-year students of SATI, Vidisha |
-| **1st Stage: Ideation Round** | Date TBD | Online | Brainstorm and submit groundbreaking ideas |
-| **2nd Stage: Mentoring & Evaluation** | Date TBD | Online | Collaborate with mentors to refine projects |
-| **Final Stage: Showdown** | Date TBD | Offline | Present and compete for exciting prizes |
+| **Kick-off Session** | 26 Oct 2025, 7PM | Online | Introduction to the hackathon, submission flow, judging criteria, and event timeline |
+| **1st Stage: Ideation Round** | 26 Oct - 29 Oct 2025 | Online | Brainstorm and submit groundbreaking ideas |
+| **2nd Stage: Mentoring & Evaluation** | 3 Nov - 4 Nov 2025 | Online | Collaborate with experienced mentors to refine your project |
+| **Final Stage: Showdown** | 8 Nov 2025, 10AM | Offline | Bring your polished ideas to life and showcase them to win exciting prizes |
 
 ---
 
@@ -62,12 +63,35 @@ To cultivate a culture of problem-solving and entrepreneurship among college stu
 | **Hardik Kumar Sinha** | [8989979336](tel:8989979336) |
 | **Utkarsh Vishwakarma** | [9399626993](tel:9399626993) |
 | **Shreya Mangal** | [9770789783](tel:9770789783) |
+| **Aryaman Sahu** | [7879558284](tel:7879558284) |
+| **Saiyed Rehan Ali** | [9755016575](tel:9755016575) |
+| **Safal Tiwari** | [6260584403](tel:6260584403) |
+| **Taufiq Lohar** | [7974797847](tel:7974797847) |
 
 ### Connect With Us
 - **Instagram:** [@gdgoc.sati](https://www.instagram.com/gdgoc.sati)
 - **LinkedIn:** [GDG On Campus SATI](https://www.linkedin.com/company/gdgoc-sati)
 - **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/Ly0H9MLqvbv7gTUGv9H3xR?mode=wwc)
 - **GDG Community:** [Visit Community Page](https://gdg.community.dev/gdg-on-campus-samrat-ashok-technological-institute-vidisha-india/)
+
+---
+
+## 🏆 Event Sponsors
+
+- **Avyukt Restaurant** - [Location](https://maps.app.goo.gl/yp3XzPzFSUABWdFC9)
+- **Saffron** - [Location](https://maps.app.goo.gl/ZX75nQEBaXMjm3zD9)
+
+---
+
+## 🎯 Selected Teams
+
+View the shortlisted and waiting list teams on our **[Teams Page](teams.html)**
+
+### Shortlisted Teams (18 teams)
+TechPulse, Chronos Chrew, resolve.exe, CIVIC CODERS, TEAM RESOLVERS, UDAAN, HEALTECH, ORYN, webgenie, Aegis Crew, Buddies n0t f0und, Astra Minds, SPARK, Luminax, Techno Titans, Karm Coders, Code Blooded, AI COP
+
+### Waiting List Teams (5 teams)
+CODE HUNT<>, NeXt Us, Codevision, Unveil, Bugbusters
 
 ---
 
