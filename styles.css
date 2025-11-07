@@ -9,6 +9,9 @@
             
             /* GDG Halftones */
             --gdg-half-blue: #57caff;
+            --gdg-half-green: #9cf2bb;
+            --gdg-half-yellow: #ffdf94;
+            --gdg-half-red: #ff7daf;
 
             /* GDG Pastels (for blobs) */
             --pastel-blue: #c3eef6;
@@ -372,7 +375,7 @@ header::before {
         
         .btn {
             text-decoration: none;
-            padding: 0.75rem 1.5rem;
+            padding: 0.75rem 1rem;
             border-radius: 50px;
             font-weight: 600;
             transition: all 0.3s ease;
@@ -395,7 +398,7 @@ header::before {
         }
         
         .btn-ppt {
-            background-color: var(--gdg-yellow);
+            background-color: var(--gdg-half-red);
             color: white;
         }
 
@@ -403,6 +406,11 @@ header::before {
             background-color: var(--gdg-red);
             color: white;
         }
+        .btn-submission {
+            background-color: var(--gdg-yellow);
+            color: white;
+        }
+        
 
         /* --- 6. Timeline Section --- */
         
